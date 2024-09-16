@@ -26,7 +26,7 @@ El script utiliza axios para realizar solicitudes HTTP a la API de OSDE y proces
 
    ```
    git clone https://github.com/Enzo-cam/web-scraping-osde.git
-   cd osde-directory-scraper
+   cd scraper-nodejs
    ```
 
 2. Instala las dependencias:
