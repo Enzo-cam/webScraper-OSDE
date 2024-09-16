@@ -40,8 +40,9 @@ Este proyecto es un web scraper diseñado para extraer información de profesion
 
 1. Clona el repositorio:
    ```
-   git clone https://github.com/Enzo-cam/osde-web-scraper.git
-   cd osde-web-scraper
+   
+   git clone https://github.com/Enzo-cam/webScraper-OSDE.git
+   cd scraper-python
    ```
 
 2. Crea un entorno virtual:
