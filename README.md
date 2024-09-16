@@ -1,7 +1,5 @@
 ## Comparación con la Solución API de NodeJS
 
-Mientras que este web scraper basado en Python proporciona una solución robusta y flexible, vale la pena notar que una implementación alternativa en NodeJS que interactúa directamente con la API de OSDE ofrece algunas ventajas distintas:
-
 ### Ventajas del Web Scraper (Python):
 1. Más resistente a cambios en el sitio web, ya que interactúa con el sitio como lo haría un humano.
 2. Puede manejar contenido dinámico y elementos renderizados por JavaScript.
