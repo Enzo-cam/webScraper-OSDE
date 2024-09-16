@@ -1,0 +1,20 @@
+# scraper_config.yaml
+url: 'https://www.osde.com.ar/index1.html#!cartilla.html'
+
+configurations:
+  - plan: "510"
+    provincia: "Ciudad de Buenos Aires"
+    localidad: "Todas las Localidades"
+    especialidad: "PSICOLOGÍA ADULTOS"
+  - plan: "510"
+    provincia: "Ciudad de Buenos Aires"
+    localidad: "Todas las Localidades"
+    especialidad: "PSICOLOGÍA NIÑOS Y ADOLESCENTES"
+  - plan: "210"
+    provincia: "GBA Zona Oeste"
+    localidad: "Todas las Localidades"
+    especialidad: "PSICOLOGÍA ADULTOS"
+  - plan: "210"
+    provincia: "GBA Zona Norte"
+    localidad: "Todas las Localidades"
+    especialidad: "PSICOLOGÍA ADULTOS"
